@@ -1,4 +1,4 @@
-## A small Aplication Using Node
+## A small Application Using Node
 
 ### Requirements
 - Should have Node.js installed you can install Node by following the link <a href="https://nodejs.org/en/" target="_blank">here</a>
